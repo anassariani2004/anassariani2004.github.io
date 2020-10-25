@@ -1,0 +1,12 @@
+
+body {
+margin: 0;
+font-family: Arial, Helvetica, sans-serif;
+}
+p {
+font-size: 15px; /* 12 pixels hoog*/
+}
+
+body {
+color: red; /* Tekstkleur is groen*/
+}
